@@ -1,0 +1,77 @@
+body{
+    background-color: #0A1D37;
+}
+
+div.welcome{
+    font-size: 40px;
+    font-family:'Trebuchet MS';
+    color:#DBE6FD;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+div.Team{
+    font-family: 'Candara', 'cursive';
+    font-size: 60px;
+    color: white;
+    margin-left: 500px;
+    margin-top: 10px;
+    display: block;
+}
+
+#title{
+    color: aliceblue;
+    font-family: 'Candara', 'cursive';
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+.home_menu{
+    width: 70px;
+    height:70px;
+    border-radius: 100px;
+    margin-top: -330px;
+    margin-left: 50px;
+    background-color: tomato;
+    border-width: 100px;
+}
+
+.home_menu a:hover{
+    width: 80px;
+    height: 80px;
+}
+
+.squad_menu{
+    width:70px;
+    height:70px;
+    border-radius:100px;
+    background-color: tomato;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.achieve_menu{
+    width: 70px;
+    height:70px;
+    border-radius: 100px;
+    background-color: tomato;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.contact_menu{
+    width:70px;
+    height:70px;
+    border-radius: 100px;
+    background-color: tomato;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.image{
+    border-radius: 50%;
+    margin-top:-330px;
+    margin-left: 900px;
+    border-radius: 50%;
+}
+
