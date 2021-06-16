@@ -1,0 +1,206 @@
+body{
+    background-color: #0A1D37;
+}
+
+div.welcome{
+    font-size: 40px;
+    font-family:'Trebuchet MS';
+    color:#DBE6FD;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+div.Team{
+    font-family: 'Candara', 'cursive';
+    font-size: 60px;
+    color: white;
+    margin-left: 500px;
+    margin-top: 10px;
+    display: block;
+}
+
+#title{
+    color: aliceblue;
+    font-family: 'Candara', 'cursive';
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.home_menu{
+    width: 70px;
+    height:70px;
+    border-radius: 100px;
+    margin-top: -330px;
+    margin-left: 50px;
+    background-color: tomato;
+    border-width: 100px;
+}
+
+.home_menu a:hover{
+    width: 80px;
+    height: 80px;
+}
+
+.squad_menu{
+    width:70px;
+    height:70px;
+    border-radius:100px;
+    background-color: tomato;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.achieve_menu{
+    width: 70px;
+    height:70px;
+    border-radius: 100px;
+    background-color: tomato;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.contact_menu{
+    width:70px;
+    height:70px;
+    border-radius: 100px;
+    background-color: tomato;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.image{
+    border-radius: 50%;
+    margin-top:-330px;
+    margin-left: 900px;
+    border-radius: 50%;
+}
+
+.home_icon{
+    position: relative;
+    margin-left:60px ;
+    margin-top: -305px;
+}
+
+.contact_icon{
+    position: relative;
+    margin-top: 217px;
+    margin-left: 60px;
+}
+
+.squad_icon{
+    position: relative;
+    margin-top: -234px;
+    margin-left: 60px;
+}
+
+.achieve_icon{
+    position: relative;
+    margin-left: 60px;
+    margin-top:35px;
+}
+
+.icon{
+    position: relative;
+    margin-top: -420px;
+    margin-left: 15px;
+}
+
+.down_arrow{
+    position: relative;
+    margin-left: 700px;
+    margin-top: 550px;
+    width:50px;
+    height:50px;
+}
+
+.light_off{
+    position: relative;
+    margin-left: 1430px;
+    margin-top: -650px;
+}
+
+.button_on{
+    position: relative;
+    margin-left: 1370px;
+    margin-top:-60px;
+}
+
+.abtus_title{
+    font-family: 'Candara', 'cursive';
+    color: #343F56;
+    font-size: 50px;
+    margin-left: 660px;
+    margin-top:700px;
+}
+
+.state_1{
+    width:500px;
+    height: 100px;
+    background-color: #FFF5EB;
+    margin-left: 200px;
+    margin-top: 200px;
+    border-radius: 50px;
+}
+
+.state1_icon{
+    margin-left: 800px;
+    margin-top:-110px ;
+}
+
+.state_2{
+    width:500px;
+    height: 100px;
+    background-color: #FFF5EB;
+    margin-top: 100px;
+    margin-left: 800px;
+    border-radius: 50px;
+}
+
+.state2_icon{
+    margin-top: -95px;
+    margin-left: 580px;
+}
+
+.down_arrow1{
+    margin-top:75px;
+    margin-left: 700px;
+}
+
+.about_us{
+    background-color: #F3C583;
+    margin: 0%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.squad_title{
+    color: #126E82;
+    font-size: 50px;
+    font-family: 'Candara', 'cursive';
+    margin-top: -50px;
+    margin-left:680px;
+}
+
+.squad{
+    background-color: #CA8A8B;
+}
+
+.squad1,.squad2,.squad3,.squad4,.squad5{
+    text-align: center;
+    font-size: 20px;
+    color:#293B5F;
+    font-family: 'Candara', 'cursive';
+    margin-top: 50px;
+}
+
+#name{
+    font-size: 30px;
+    font-weight: 30px;
+    color: #325288;
+}
+
+.down_arrow2{
+    margin-top: 70px;
+    margin-left: 700px;
+}
